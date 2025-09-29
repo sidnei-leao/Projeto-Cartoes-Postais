@@ -15,7 +15,7 @@
  
 <h2>Neste projeto aprendi como ultilizar o map, reduce e o filter</h2>
 <img src="https://raw.githubusercontent.com/sidnei-leao/Projeto-Cartoes-Postais/2bccead349738f3f6802d52c78dcc73882e3135a/assets/Captura%20de%20tela%202025-09-29%20184317%20Bali.png">
-<img src="https://github.com/sidnei-leao/DevClub-Burger/blob/main/assets/Captura%20de%20tela%202025-09-23%20183550%2002.png?raw=true">
+<img src="https://raw.githubusercontent.com/sidnei-leao/Projeto-Cartoes-Postais/2bccead349738f3f6802d52c78dcc73882e3135a/assets/Captura%20de%20tela%202025-09-29%20184411%20Roma.png">
 <img src="https://github.com/sidnei-leao/DevClub-Burger/blob/main/assets/Captura%20de%20tela%202025-09-23%20183633%2003.png?raw=true">
 
 
