@@ -13,8 +13,8 @@
   
 </div>
  
-<h2>Neste projeto aprendi como ultilizar o map, reduce e o filter</h2>
-<img src="https://raw.githubusercontent.com/sidnei-leao/Projeto-Cartoes-Postais/2bccead349738f3f6802d52c78dcc73882e3135a/assets/Captura%20de%20tela%202025-09-29%20184317%20Bali.png">
+<h2>Este projeto me permitiu colocar em prática novos conhecimentos abordando em conjunto HTML, CSS e JS, com ele aprendi a ultizar @keyframes para aplicar animações, pseudo-classe como nth-Child e nth-last-child, eventos como :hover, onclick funcções, If e Else e muito mais. </h2>
+<img src="https://raw.githubusercontent.com/sidnei-leao/Projeto-Cartoes-Postais/2bccead349738f3f6802d52c78dcc73882e3135a/assets/Captura%20de%20tela%202025-09-29%20184317%20Bali.png"> 
 <img src="https://raw.githubusercontent.com/sidnei-leao/Projeto-Cartoes-Postais/2bccead349738f3f6802d52c78dcc73882e3135a/assets/Captura%20de%20tela%202025-09-29%20184411%20Roma.png">
 <img src="https://github.com/sidnei-leao/Projeto-Cartoes-Postais/blob/main/assets/Captura%20de%20tela%202025-09-29%20184505%20Paris.png?raw=true">
 
