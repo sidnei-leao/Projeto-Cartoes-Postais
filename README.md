@@ -15,7 +15,8 @@
 <br>
 # Meu Projeto 🚀
 
-Acesse o site aqui: [Clique para ver](https://seu-usuario.github.io/nome-do-repositorio/)
+Acesse o site aqui: [Clique para ver](https://sidnei-leao.github.io/Projeto-Cartoes-Postais/)
+
 <br>
 <br>
 <br>
