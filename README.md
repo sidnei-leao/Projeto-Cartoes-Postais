@@ -4,10 +4,6 @@
 <br>
 <br>
 
-# Meu Projeto 🚀
-
-Acesse o site aqui: [Clique para ver](https://seu-usuario.github.io/nome-do-repositorio/)
-
     <h2>Esse foi um projeto que arpendi no <a href="https://rodolfomori.com.br/devclub">DevClub</a> utilizando as tecnologias:</h2>
     
 
@@ -23,6 +19,10 @@ Acesse o site aqui: [Clique para ver](https://seu-usuario.github.io/nome-do-repo
 <img src="https://raw.githubusercontent.com/sidnei-leao/Projeto-Cartoes-Postais/2bccead349738f3f6802d52c78dcc73882e3135a/assets/Captura%20de%20tela%202025-09-29%20184317%20Bali.png"> 
 <img src="https://raw.githubusercontent.com/sidnei-leao/Projeto-Cartoes-Postais/2bccead349738f3f6802d52c78dcc73882e3135a/assets/Captura%20de%20tela%202025-09-29%20184411%20Roma.png">
 <img src="https://github.com/sidnei-leao/Projeto-Cartoes-Postais/blob/main/assets/Captura%20de%20tela%202025-09-29%20184505%20Paris.png?raw=true">
+<br>
+# Meu Projeto 🚀
+
+Acesse o site aqui: [Clique para ver](https://seu-usuario.github.io/nome-do-repositorio/)
 
 
 
