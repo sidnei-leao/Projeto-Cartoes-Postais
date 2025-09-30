@@ -145,7 +145,7 @@ header a {
         border-radius: 10px;
         border: none;
         padding: 12px 17px;
-        background-color: #eee4;
+        background-color: rgba(0, 0, 0, 0.591);
         color: #eee;
         cursor: pointer;
         font-weight: 700;
